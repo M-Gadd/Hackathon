@@ -1,4 +1,22 @@
+<<<<<<< HEAD
+.carousel-inner > .item > img {
+  width:100%;
+  /* margin-left: 25%; */
+
+}
+
+.carousel {
+  width: 50%;
+  margin-left: 25%;
+  /* width:640px;
+  height:360px; */
+}
+
+.carousel-wrap {
+  width: 50%
+=======
 .smallImg{
   width: 150px;
   height: 60px;
+>>>>>>> 6b2df19d478052260c122536482ffea7bc757ac8
 }
