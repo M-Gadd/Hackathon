@@ -6,6 +6,22 @@
     height: 50px;
     padding: 0px;
 }
+.carousel-inner > .item > img {
+  width:100%;
+  /* margin-left: 25%; */
+
+}
+
+.carousel {
+  width: 50%;
+  margin-left: 25%;
+  /* width:640px;
+  height:360px; */
+}
+
+.carousel-wrap {
+  width: 50%
+}
 
 .smallImg{
   width: 150px;
